@@ -1,0 +1,13 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#g)"/>
+  <circle cx="320" cy="340" r="190" fill="#22c55e" fill-opacity="0.35"/>
+  <circle cx="860" cy="340" r="190" fill="#3b82f6" fill-opacity="0.35"/>
+  <path d="M450 350 C540 250 660 250 750 350" stroke="white" stroke-opacity="0.6" stroke-width="14"/>
+  <text x="600" y="610" text-anchor="middle" fill="white" fill-opacity="0.8" font-size="42" font-family="Arial">Handwerk Fusion</text>
+</svg>
